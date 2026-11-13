@@ -213,7 +213,10 @@ void student_BINDU_S() {
 }
 
 void student_BRUNDA_G() {
-    printf("BRUNDA G is absent\n");
+    printf("BRUNDA G is present\n");
+    printf("Name: Brunda G\n");
+    printf("Email: gbrunda2007@gmail.com\n");
+    printf("Address: Shivamogga, Karnataka, India\n");
 }
 
 void student_CHAITANYA_R_B() {
